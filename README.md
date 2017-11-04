@@ -1,1 +1,1 @@
-# esp8266_basicota
+# This code works for uploading code via OTA
